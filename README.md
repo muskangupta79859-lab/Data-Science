@@ -15,3 +15,13 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Python
 - Pandas
 - Google Colab
+## Learning Approach
+
+This repository is a collection of my hands-on practice while learning data science concepts step by step.
+
+The focus is on:
+- Understanding fundamentals clearly
+- Practicing with real examples
+- Improving problem-solving skills gradually
+
+Each update reflects my learning progress.

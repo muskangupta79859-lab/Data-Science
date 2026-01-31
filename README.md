@@ -27,3 +27,5 @@ The focus is on:
 - Improving problem-solving skills gradually
 
 Each update reflects my learning progress.
+
+- Conceptual understanding of Python and database interaction

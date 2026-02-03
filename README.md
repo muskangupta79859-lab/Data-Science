@@ -30,3 +30,6 @@ The focus is on:
 Each update reflects my learning progress.
 
 - Conceptual understanding of Python and database interaction
+## Data Scientist Notes
+This section documents how a data scientist approaches
+real-world problems step by step.

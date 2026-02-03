@@ -8,6 +8,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Basic data understanding and statistics
 - Handling missing value handling example using pandas
 - Handled missing values using dropna() method
+- Implemented outlier detection using IQR method
 
 ## Files
 - pandas_basics.ipynb

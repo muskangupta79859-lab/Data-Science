@@ -10,6 +10,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Handled missing values using dropna() method
 - Implemented outlier detection using IQR method
 - Added Outlier handling using IQR and median replacement
+- Implemented feature scaling using StandardScaler and MinMax Scaler
 
 ## Files
 - pandas_basics.ipynb

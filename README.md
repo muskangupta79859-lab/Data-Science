@@ -11,6 +11,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Implemented outlier detection using IQR method
 - Added Outlier handling using IQR and median replacement
 - Implemented feature scaling using StandardScaler and MinMax Scaler
+- Added categorical data encodingusing label and one hot encoding
 
 ## Files
 - pandas_basics.ipynb

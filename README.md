@@ -13,6 +13,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Implemented feature scaling using StandardScaler and MinMax Scaler
 - Added categorical data encodingusing label and one hot encoding
 - Implemented train-test split for model preparation
+- Implemented linear regression model with evaluation metrics
 
 ## Files
 - pandas_basics.ipynb

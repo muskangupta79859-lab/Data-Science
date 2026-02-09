@@ -14,6 +14,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Added categorical data encodingusing label and one hot encoding
 - Implemented train-test split for model preparation
 - Implemented linear regression model with evaluation metrics
+- Added model evaluation using R2 score and visualization
 
 ## Files
 - pandas_basics.ipynb

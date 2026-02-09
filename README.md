@@ -15,6 +15,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Implemented train-test split for model preparation
 - Implemented linear regression model with evaluation metrics
 - Added model evaluation using R2 score and visualization
+- Implemented logistic regression classification model with evaluation
 
 ## Files
 - pandas_basics.ipynb

@@ -17,7 +17,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Added model evaluation using R2 score and visualization
 - Implemented logistic regression classification model with evaluation
 - Added KNN classification model with scaling and evaluation
-
+- Implemented ML Pipeline with cross validation and hyperparameter tuning
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

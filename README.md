@@ -20,6 +20,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Implemented ML Pipeline with cross validation and hyperparameter tuning
 - Compared KNN and Logistic regression using ML Pipeline
 - Implemented Random Forest Classifier
+- Implemented hyperparameter tuning using GridSearchCV
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

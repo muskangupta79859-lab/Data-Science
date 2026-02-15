@@ -21,6 +21,8 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Compared KNN and Logistic regression using ML Pipeline
 - Implemented Random Forest Classifier
 - Implemented hyperparameter tuning using GridSearchCV
+- Added model saving, loading and prediction workflow
+
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

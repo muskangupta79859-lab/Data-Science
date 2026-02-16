@@ -22,6 +22,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Implemented Random Forest Classifier
 - Implemented hyperparameter tuning using GridSearchCV
 - Added model saving, loading and prediction workflow
+- Added CSV based training and confusion matrix evaluation
 
 ## Files
 - pandas_basics.ipynb

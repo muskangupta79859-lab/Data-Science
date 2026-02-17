@@ -23,6 +23,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Implemented hyperparameter tuning using GridSearchCV
 - Added model saving, loading and prediction workflow
 - Added CSV based training and confusion matrix evaluation
+- Added ROC-AUC evaluation and saved trained model
 
 ## Files
 - pandas_basics.ipynb

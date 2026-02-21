@@ -25,6 +25,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Added CSV based training and confusion matrix evaluation
 - Added ROC-AUC evaluation and saved trained model
 - Implemented feature importance using Random Forest
+- Added pca dimensionality reduction model
 
 ## Files
 - pandas_basics.ipynb

@@ -26,6 +26,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Added ROC-AUC evaluation and saved trained model
 - Implemented feature importance using Random Forest
 - Added pca dimensionality reduction model
+- Add feature selection example using SelectKBest
 
 ## Files
 - pandas_basics.ipynb

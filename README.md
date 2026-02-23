@@ -27,6 +27,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Implemented feature importance using Random Forest
 - Added pca dimensionality reduction model
 - Add feature selection example using SelectKBest
+- Add cross-validation model using RandomForestClassifier
 
 ## Files
 - pandas_basics.ipynb

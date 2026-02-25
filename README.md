@@ -28,6 +28,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Added pca dimensionality reduction model
 - Add feature selection example using SelectKBest
 - Add cross-validation model using RandomForestClassifier
+- Add model evaluation report for Iris dataset
 
 ## Files
 - pandas_basics.ipynb

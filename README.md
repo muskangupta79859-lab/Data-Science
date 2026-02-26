@@ -29,6 +29,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add feature selection example using SelectKBest
 - Add cross-validation model using RandomForestClassifier
 - Add model evaluation report for Iris dataset
+- Add feature importance calculation using Random Forest
 
 ## Files
 - pandas_basics.ipynb

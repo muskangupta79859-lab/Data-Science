@@ -31,6 +31,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add model evaluation report for Iris dataset
 - Add feature importance calculation using Random Forest
 - Add SMOTE oversampling for imbalanced data handling
+- Compare GridSearchCV and RandomizedSearch for model tuning
 
 ## Files
 - pandas_basics.ipynb

@@ -32,6 +32,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add feature importance calculation using Random Forest
 - Add SMOTE oversampling for imbalanced data handling
 - Compare GridSearchCV and RandomizedSearch for model tuning
+- Add data drift check using KS test
 
 ## Files
 - pandas_basics.ipynb

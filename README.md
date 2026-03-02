@@ -33,7 +33,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add SMOTE oversampling for imbalanced data handling
 - Compare GridSearchCV and RandomizedSearch for model tuning
 - Add data drift check using KS test
-
+- Add Flask API for iris species prediction
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

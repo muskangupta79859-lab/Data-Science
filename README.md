@@ -34,6 +34,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Compare GridSearchCV and RandomizedSearch for model tuning
 - Add data drift check using KS test
 - Add Flask API for iris species prediction
+- Implement Random Forest model training and prediction
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

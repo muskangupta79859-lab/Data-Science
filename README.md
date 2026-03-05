@@ -35,6 +35,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add data drift check using KS test
 - Add Flask API for iris species prediction
 - Implement Random Forest model training and prediction
+- Add confusion matrix visualization for model evaluation
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

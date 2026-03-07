@@ -37,6 +37,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Implement Random Forest model training and prediction
 - Add confusion matrix visualization for model evaluation
 - Create correlation_heatmap.py
+- Create data_normalization.py
 
 ## Files
 - pandas_basics.ipynb

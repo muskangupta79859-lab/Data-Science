@@ -38,6 +38,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add confusion matrix visualization for model evaluation
 - Create correlation_heatmap.py
 - Create data_normalization.py
+- Create feature_scaling_standardization.py
 
 ## Files
 - pandas_basics.ipynb

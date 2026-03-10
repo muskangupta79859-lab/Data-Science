@@ -40,6 +40,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Create data_normalization.py
 - Create feature_scaling_standardization.py
 - Create train_test_split_example.py
+- Create feature_selection_selectkbest.py
 
 ## Files
 - pandas_basics.ipynb

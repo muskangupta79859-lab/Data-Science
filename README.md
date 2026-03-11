@@ -41,6 +41,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Create feature_scaling_standardization.py
 - Create train_test_split_example.py
 - Create feature_selection_selectkbest.py
+- Add pairplot visualization for exploratory data analysis
 
 ## Files
 - pandas_basics.ipynb

@@ -43,6 +43,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Create feature_selection_selectkbest.py
 - Add pairplot visualization for exploratory data analysis
 - Create k_fold_cross_validation.py
+- Create standard_scaler_example.py
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

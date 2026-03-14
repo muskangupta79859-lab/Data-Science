@@ -44,6 +44,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add pairplot visualization for exploratory data analysis
 - Create k_fold_cross_validation.py
 - Create standard_scaler_example.py
+- Create min_max_scaling.py
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

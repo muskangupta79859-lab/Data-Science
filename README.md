@@ -47,6 +47,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Create min_max_scaling.py
 - Create label_encoding_example.py
 - Create one_hot_encoding_example.py
+- Create outlier_detection_iqr.py
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

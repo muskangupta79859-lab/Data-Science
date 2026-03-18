@@ -49,6 +49,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Create one_hot_encoding_example.py
 - Create outlier_detection_iqr.py
 - Create model_evaluation_metrics.py
+- Create model_saving_loading.py
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

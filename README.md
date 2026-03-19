@@ -50,6 +50,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Create outlier_detection_iqr.py
 - Create model_evaluation_metrics.py
 - Create model_saving_loading.py
+- Create ml_pipeline.py
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

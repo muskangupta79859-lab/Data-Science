@@ -51,6 +51,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Create model_evaluation_metrics.py
 - Create model_saving_loading.py
 - Create ml_pipeline.py
+- Create scaling_comparison.py
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

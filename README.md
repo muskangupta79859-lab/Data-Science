@@ -55,9 +55,9 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Create correlation_matrix.py
 
 ## Advance_ML
-Add SHAP model explainability (advanced ML concept)
-Added advanced ML pipeline with feature selection and cross-validation
-Added model evaluation with confusion matrix and classification report
+- Add SHAP model explainability (advanced ML concept)
+- Added advanced ML pipeline with feature selection and cross-validation
+- Added model evaluation with confusion matrix and classification report
 ## Files
 - pandas_basics.ipynb
 - DataVisualization.py

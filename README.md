@@ -60,6 +60,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Added model evaluation with confusion matrix and classification report
 - Added hyperparameter tuning using GridSearchCV
 - Started ML model deployment using Flask API
+- Added K-fold cross validation for robust model evaluation
 
   
 ## Files

@@ -61,7 +61,8 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Added hyperparameter tuning using GridSearchCV
 - Started ML model deployment using Flask API
 - Added K-fold cross validation for robust model evaluation
--Added experiment tracking for comparing ML models
+- Added experiment tracking for comparing ML models
+- Added XGBoost model implementation for Iris dataset
   
 ## Files
 - pandas_basics.ipynb

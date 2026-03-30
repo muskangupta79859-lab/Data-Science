@@ -63,6 +63,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Added K-fold cross validation for robust model evaluation
 - Added experiment tracking for comparing ML models
 - Added XGBoost model implementation for Iris dataset
+- Add feature encoding techniques in feature_encoding.py
   
 ## Files
 - pandas_basics.ipynb

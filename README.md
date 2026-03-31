@@ -64,6 +64,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Added experiment tracking for comparing ML models
 - Added XGBoost model implementation for Iris dataset
 - Add feature encoding techniques in feature_encoding.py
+- Add data leakage prevention example with pipeline
   
 ## Files
 - pandas_basics.ipynb

@@ -65,6 +65,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Added XGBoost model implementation for Iris dataset
 - Add feature encoding techniques in feature_encoding.py
 - Add data leakage prevention example with pipeline
+- Add advanced cross-validation methods in cross_validation_advanced.py
   
 ## Files
 - pandas_basics.ipynb

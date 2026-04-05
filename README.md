@@ -69,6 +69,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add time series basics with moving average plot
 - Add time series forecasting with moving average
 - Add advanced model evaluation metrics script
+- Add text preprocessing module for NLP
   
 ## Files
 - pandas_basics.ipynb

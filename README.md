@@ -70,6 +70,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add time series forecasting with moving average
 - Add advanced model evaluation metrics script
 - Add text preprocessing module for NLP
+- Add tfidf_vectorizer.py for TF-IDF example
   
 ## Files
 - pandas_basics.ipynb

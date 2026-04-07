@@ -71,6 +71,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add advanced model evaluation metrics script
 - Add text preprocessing module for NLP
 - Add tfidf_vectorizer.py for TF-IDF example
+- Add sentiment_model.py for sentiment analysis
   
 ## Files
 - pandas_basics.ipynb

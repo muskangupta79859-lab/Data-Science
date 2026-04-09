@@ -73,6 +73,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add tfidf_vectorizer.py for TF-IDF example
 - Add sentiment_model.py for sentiment analysis
 - Add script to save and load ML model
+- Implement Flask API for sentiment analysis model
   
 ## Files
 - pandas_basics.ipynb

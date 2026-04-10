@@ -74,6 +74,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add sentiment_model.py for sentiment analysis
 - Add script to save and load ML model
 - Implement Flask API for sentiment analysis model
+- Add Streamlit app for sentiment analysis
   
 ## Files
 - pandas_basics.ipynb

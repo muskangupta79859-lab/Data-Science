@@ -77,6 +77,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add Streamlit app for sentiment analysis
 - Add README for Sentiment Analysis ML Project
 - Add requirements for Flask and ML libraries
+- Started real-world customer churn prediction project
   
 ## Files
 - pandas_basics.ipynb

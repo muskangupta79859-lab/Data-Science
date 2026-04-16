@@ -78,6 +78,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add README for Sentiment Analysis ML Project
 - Add requirements for Flask and ML libraries
 - Started real-world customer churn prediction project
+- Added EDA and visualization for customer churn dataset
   
 ## Files
 - pandas_basics.ipynb

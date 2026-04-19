@@ -81,6 +81,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Added EDA and visualization for customer churn dataset
 - Add feature engineering for customer churn project
 - Add hyperparameter tuning script for model training
+- Add model evaluation report script
   
 ## Files
 - pandas_basics.ipynb

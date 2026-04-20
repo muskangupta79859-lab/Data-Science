@@ -82,6 +82,7 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add feature engineering for customer churn project
 - Add hyperparameter tuning script for model training
 - Add model evaluation report script
+- Add feature importance visualization using RandomForest
   
 ## Files
 - pandas_basics.ipynb

@@ -84,6 +84,13 @@ This repository contains my daily practice work for Data Science and Data Analyt
 - Add model evaluation report script
 - Add feature importance visualization using RandomForest
 - Added final results and model performance summary
+
+## 📁 Project Structure
+
+- data/ → dataset
+- src/ → core ML code
+- eda_visualization.py → analysis
+- model_comparison.py → model testing
   
 ## Files
 - pandas_basics.ipynb
